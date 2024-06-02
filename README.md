@@ -100,4 +100,7 @@ footer {
     width: 100%;
     bottom: 0;
 }
+document.addEventListener('DOMContentLoaded', function() {
+    // Add any JavaScript functionality here
+});
 
