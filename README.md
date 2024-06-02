@@ -103,4 +103,11 @@ footer {
 document.addEventListener('DOMContentLoaded', function() {
     // Add any JavaScript functionality here
 });
+document.addEventListener('DOMContentLoaded', function() {
+    // Add any JavaScript functionality here
+});
+git init
+git add .
+git commit -m "Initial commit"
+
 
